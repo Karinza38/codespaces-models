@@ -3,3 +3,4 @@ openai~=1.37.1
 mistralai~=0.4.2
 python-dotenv~=1.0.1
 ipykernel~=6.29.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
